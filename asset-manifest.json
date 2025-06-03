@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/MarwenH/todoReact.git/static/css/main.b6462afa.css",
-    "main.js": "/MarwenH/todoReact.git/static/js/main.a52830fa.js",
-    "static/js/453.81f383cb.chunk.js": "/MarwenH/todoReact.git/static/js/453.81f383cb.chunk.js",
-    "static/media/Montserrat-Bold.ttf": "/MarwenH/todoReact.git/static/media/Montserrat-Bold.3530bfc1b50b41bdc29d.ttf",
-    "static/media/Montserrat-SemiBold.ttf": "/MarwenH/todoReact.git/static/media/Montserrat-SemiBold.38e62f01be69b2e02e29.ttf",
-    "static/media/Montserrat-Regular.ttf": "/MarwenH/todoReact.git/static/media/Montserrat-Regular.cfbf0da06d33097e6d0a.ttf",
-    "static/media/Montserrat-Light.ttf": "/MarwenH/todoReact.git/static/media/Montserrat-Light.afe0a608093579a47b06.ttf",
-    "index.html": "/MarwenH/todoReact.git/index.html",
-    "main.b6462afa.css.map": "/MarwenH/todoReact.git/static/css/main.b6462afa.css.map",
-    "main.a52830fa.js.map": "/MarwenH/todoReact.git/static/js/main.a52830fa.js.map",
-    "453.81f383cb.chunk.js.map": "/MarwenH/todoReact.git/static/js/453.81f383cb.chunk.js.map"
+    "main.css": "/todoReact/static/css/main.ba215510.css",
+    "main.js": "/todoReact/static/js/main.28574cf8.js",
+    "static/js/453.81f383cb.chunk.js": "/todoReact/static/js/453.81f383cb.chunk.js",
+    "static/media/Montserrat-Bold.ttf": "/todoReact/static/media/Montserrat-Bold.3530bfc1b50b41bdc29d.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/todoReact/static/media/Montserrat-SemiBold.38e62f01be69b2e02e29.ttf",
+    "static/media/Montserrat-Regular.ttf": "/todoReact/static/media/Montserrat-Regular.cfbf0da06d33097e6d0a.ttf",
+    "static/media/Montserrat-Light.ttf": "/todoReact/static/media/Montserrat-Light.afe0a608093579a47b06.ttf",
+    "index.html": "/todoReact/index.html",
+    "main.ba215510.css.map": "/todoReact/static/css/main.ba215510.css.map",
+    "main.28574cf8.js.map": "/todoReact/static/js/main.28574cf8.js.map",
+    "453.81f383cb.chunk.js.map": "/todoReact/static/js/453.81f383cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6462afa.css",
-    "static/js/main.a52830fa.js"
+    "static/css/main.ba215510.css",
+    "static/js/main.28574cf8.js"
   ]
 }
