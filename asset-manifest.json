@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/todoReact/static/css/main.ba215510.css",
-    "main.js": "/todoReact/static/js/main.28574cf8.js",
+    "main.js": "/todoReact/static/js/main.d26ca07a.js",
     "static/js/453.81f383cb.chunk.js": "/todoReact/static/js/453.81f383cb.chunk.js",
     "static/media/Montserrat-Bold.ttf": "/todoReact/static/media/Montserrat-Bold.3530bfc1b50b41bdc29d.ttf",
     "static/media/Montserrat-SemiBold.ttf": "/todoReact/static/media/Montserrat-SemiBold.38e62f01be69b2e02e29.ttf",
@@ -9,11 +9,11 @@
     "static/media/Montserrat-Light.ttf": "/todoReact/static/media/Montserrat-Light.afe0a608093579a47b06.ttf",
     "index.html": "/todoReact/index.html",
     "main.ba215510.css.map": "/todoReact/static/css/main.ba215510.css.map",
-    "main.28574cf8.js.map": "/todoReact/static/js/main.28574cf8.js.map",
+    "main.d26ca07a.js.map": "/todoReact/static/js/main.d26ca07a.js.map",
     "453.81f383cb.chunk.js.map": "/todoReact/static/js/453.81f383cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba215510.css",
-    "static/js/main.28574cf8.js"
+    "static/js/main.d26ca07a.js"
   ]
 }
