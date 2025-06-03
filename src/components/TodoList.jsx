@@ -292,7 +292,6 @@ export default function TodoList() {
         <DialogContent>
           <TextField
             autoFocus
-            required
             margin="dense"
             id="title"
             name="title"
@@ -308,7 +307,6 @@ export default function TodoList() {
 
           <TextField
             autoFocus
-            required
             margin="dense"
             id="details"
             name="details"
